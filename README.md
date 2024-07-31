@@ -5,6 +5,7 @@ it has the following features:
 * display task: ![displayTask](https://github.com/user-attachments/assets/1bc8034e-5caa-4198-8ede-c34fe053e0f1)
  users can view a list of their added tasks below the task form
 * edit task: https://github.com/infangle/To-DoApp you can edit a specific task by clicking the 'edit' button next to the designated task and a new input box will appear at top, where users can input the updated ask name and click 'ok' to update
-* mark task as done: https://github.com/infangle/To-DoApp/issues/5#issue-2438610713 users can click on the checkbox to the left of the task name to mark the task as done
+* mark task as done: ![DoneTask](https://github.com/user-attachments/assets/3beffbb7-ce31-4cc1-aaf2-ce640687da29)
+ users can click on the checkbox to the left of the task name to mark the task as done
 * delete task: ![deleteTask](https://github.com/user-attachments/assets/d0a13c2b-c6e5-4c27-9e48-4de0d06f6d8d)
  users can remove a task from the task list by clicking 'delete' button at  the right of the task to be dleted.
